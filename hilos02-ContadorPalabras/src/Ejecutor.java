@@ -15,6 +15,7 @@ public class Ejecutor {
 		 * HiloEjecutor(rutaFichero); h1.start();
 		 */
 
+		//A partir de aqui todo mal.
 		System.out.println(System.nanoTime());
 		ArrayList<String> ficheros = new ArrayList<String>();
 		ficheros.add("/home/alumno/texto.txt");
